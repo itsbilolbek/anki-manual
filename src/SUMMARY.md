@@ -1,8 +1,8 @@
 # Summary
 
-[Introduction](intro.md)
+[Kirish](intro.md)
 
-- [Background](background.md)
+- [Dastur haqida](background.md)
 - [Platform Notes](platform/intro.md)
   - [Windows](platform/windows/intro.md)
     - [Install & Upgrade](platform/windows/installing.md)

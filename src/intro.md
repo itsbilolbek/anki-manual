@@ -20,7 +20,7 @@ sahifasiga qarang.
 ## Tarjimalar
 
 Ushbu qoʻllanma koʻngillilar tomonidan tarjima qilingan. Tarjimalar eskirgan
-boʻlishi) mumkin.
+boʻlishi mumkin.
 
 - [Bahasa Indonesia](https://web.archive.org/web/20250228144632/https://apps.ankiweb.net/docs/manual.id.html)
 - [Deutsch](https://web.archive.org/web/20240413080739/https://www.dennisproksch.de/anki)
