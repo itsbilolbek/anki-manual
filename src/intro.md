@@ -5,8 +5,8 @@
 Bu Anki dasturining kompyuter versiyasi uchun qoʻllanma. Mobil ilovalar
 uchun alohida qoʻllanmalar mavjud:
 
-- [AnkiDroid qoʻllanmasi](https://docs.ankidroid.org/) (Android) -
-  [AnkiMobile Manual](https://docs.ankimobile.net/) (iPhone/iPad)
+- [AnkiDroid qoʻllanmasi](https://docs.ankidroid.org/) (Android)
+- [AnkiMobile Manual](https://docs.ankimobile.net/) (iPhone/iPad)
 
 ## Quickstart
 
@@ -16,6 +16,8 @@ Vaqtingiz tigʻizmi? [Ishni boshlash](getting-started.md) qismiga oʻting.
 
 Savollaringiz bormi yoki yordam kerakmi? [Yordam olish](./getting-help.md)
 sahifasiga qarang.
+
+Oʻzbek Anki hamjamiyati [Telegram guruhiga qoʻshiling](https://t.me/uzbekanki).
 
 ## Tarjimalar
 
@@ -36,9 +38,6 @@ boʻlishi mumkin.
 - [فارسى](https://web.archive.org/web/20250328102629/http://ankidroid.ir/anki.pdf)
 - [日本語](http://wikiwiki.jp/rage2050/)
 - [简体中文](https://open-spaced-repetition.github.io/anki-manual-zh-CN/)
-
-If you would like to help translate the manual into a different language, please
-see the [translation docs](https://translating.ankiweb.net/anki/manual.html).
 
 Agar siz ham qoʻllanmani boshqa tilga tarjima qilishda
 yordam bermoqchi boʻlsangiz, iltimos, [tarjima boʻyicha
