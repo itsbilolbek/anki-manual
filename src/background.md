@@ -1,141 +1,152 @@
-# Background
+# Dastur haqida
 
 <!-- toc -->
 
-Anki is a program which makes remembering things easy. Because it is a
-lot more efficient than traditional study methods, you can either
-greatly decrease your time spent studying, or greatly increase the
-amount you learn.
+Anki — maʼlumotlarni eslab qolishni osonlashtiradigan dasturdir. U
+anʼanaviy oʻqish usullariga qaraganda ancha samarali boʻlgani sababli siz
+dars tayyorlashga ketadigan vaqtingizni sezilarli darajada tejashingiz yoki
+oʻzlashtirayotgan bilimlar hajmini keskin oshirishingiz mumkin.
 
-Anyone who needs to remember things in their daily life can benefit from
-Anki. Since it is content-agnostic and supports images, audio, videos
-and scientific markup, the possibilities are endless. For
-example:
+Anki kundalik hayotida biror narsani eslab qolishi kerak boʻlgan har kimga
+asqotishi mumkin. Dastur har qanday turdagi maʼlumotlarga moslashgani hamda
+rasm, audio, video va ilmiy belgilarni (markup) qoʻllab-quvvatlagani sababli,
+uning imkoniyatlari cheksizdir. Jumladan:
 
-- Learning a language
+- Chet tilini oʻrganish
 
-- Studying for medical and law exams
+- Tibbiyot va huquqshunoslik imtihonlariga tayyorlanish
 
-- Memorizing names and faces of people
+- Odamlarning ismi va qiyofasini eslab qolish
 
-- Brushing up on geography
+- Geografiya boʻyicha bilimlarni mustahkamlash
 
-- Mastering long poems
+- Uzun sheʼrlarni yod olish
 
-- Even practising guitar chords!
+- Hatto gitara akkordlarini mashq qilish!
 
-There are two simple concepts behind Anki: **active recall testing** and
-**spaced repetition**. They are not known to most learners, despite being well-documented in scientific literature.
-Understanding how these concepts work will make you a more effective learner.
+Ankiʼning zaminida ikkita oddiy tushuncha yotadi: **faol eslash** (active
+recall) hamda **oraliqli takrorlash** (spaced repetition). Garchi ilmiy
+adabiyotlarda bu usullar atroflicha yoritilgan boʻlsa-da, koʻpchilik bilim
+oluvchilar ular haqida yetarli tasavvurga ega emas. Ushbu tushunchalar qanday
+ishlashini anglash oʻzlashtirish qobiliyatingizni yanada oshiradi.
 
-## Active Recall Testing
+## Faol eslab qolish
 
-_Active recall testing_ means being asked a question and trying to
-remember the answer. This is in contrast to _passive study_, where we
-read, watch, or listen to something without pausing to consider if we
-know the answer. Research has shown that active recall testing is far
-more effective at building strong memories than passive study. There are
-two reasons for this:
+_Faol eslab qolish_ — bu biror savolga duch kelganda, javobni xotiradan
+qidirib topishga urinishdir. Bu usul passiv oʻrganishdan tubdan farq
+qiladi. Passiv oʻrganishda biz biror narsani shunchaki oʻqiymiz, koʻramiz
+yoki tinglaymiz, lekin "javobini bilamanmi?" deb oʻzimizga savol berib,
+toʻxtab oʻtirmaymiz. Tadqiqotlar shuni koʻrsatadiki, maʼlumotni faol
+eslashga urinish xotirani mustahkamlashda shunchaki oʻqib chiqishdan koʻra
+ancha samaralidir. Buning ikkita asosiy sababi bor:
 
-- The act of recalling something _strengthens_ the memory, increasing
-  the chances we’ll be able to remember it again.
+- Maʼlumotni esga tushirish jarayoni xotirani _charxlaydi_ va uni kelgusida
+yana eslay olish ehtimolini oshiradi.
 
-- When we're unable to answer a question, it tells us we need to
-  return to the material to review or relearn it.
+- Agar savolga javob bera olmasak, bu bizga oʻsha mavzuni qaytadan koʻrib
+chiqish yoki oʻzlashtirish kerakligidan darak beradi.
 
-You have probably encountered active recall testing in your school years
-without even realizing it. When good teachers give you a series of
-questions to answer after reading an article, or make you take weekly
-tests, they are not doing it simply to see if you
-understood the material or not. By testing you, they are increasing the
-chances you will be able to remember the material in the future.
+Ehtimol, maktab davrlaringizda oʻzingiz sezmagan holda ushbu usulga duch
+kelgandirsiz. Tajribali muallimlar biror bir materialni oʻqib boʻlgach, bir
+dunyo savollar berishi yoki har hafta nazorat ishi olishi bejiz emas. Ular
+buni shunchaki mavzuni tushungan-tushunmaganingizni tekshirish uchun emas,
+balki kelajakda oʻsha maʼlumotlarni eslab qolishingizga yordam berish
+uchun qilishadi.
 
-A good way to integrate active recall testing into your own studies is
-to use _flashcards_. With traditional paper flashcards, you write a
-question on one side of a card, and the answer on the other side. By not
-turning the card over until you've recalled the answer, you can
-learn things more effectively than passive observation allows.
+Oʻz oʻqish jarayoningizga ushbu usulni tatbiq etishning eng qulay yoʻli
+— _kartochkalardan_ foydalanishdir. Oddiy qogʻoz kartochkaning bir tomoniga
+savol, ikkinchi tomoniga javob yoziladi. Javobni eslamaguningizcha kartochkani
+agʻdarmaslik orqali siz maʼlumotni shunchaki kuzatishga qaraganda ancha
+samaraliroq oʻzlashtirasiz.
 
-## Use It or Lose It
+## Yo ishlating, yo unuting
 
-Our brains are efficient machines, and they rapidly forget information
-that doesn't seem useful. Chances are that you don't remember what you
-had for dinner on Monday two weeks ago, because this information is not
-usually useful. However, if you went to a fantastic restaurant that day and have spent
-the last two weeks telling people about how great it was,
-you're likely to still remember it in vivid detail.
+Inson miyasi — nihoyatda samarali ishlaydigan "mashina": u keraksizdek
+tuyulgan maʼlumotlarni tezda oʻchirib tashlaydi. Katta ehtimol bilan, bundan
+ikki hafta oldingi dushanba kuni nima tanovul qilganingizni eslay olmaysiz,
+chunki bu maʼlumot odatda hech qanday ahamiyatga ega emas. Biroq, agar oʻsha
+kuni qandaydir ajoyib restoranga borgan boʻlsangiz-u, soʻnggi ikki hafta
+davomida hammaga u yer qanchalik zoʻrligi haqida soʻzlab yurgan boʻlsangiz,
+hamon barcha tafsilotlarni ipidan-ignasigacha eslab turgan boʻlishingiz tayin.
 
-The brain's "use it or lose it" policy applies to everything we learn.
-If you spend an afternoon memorizing some science terms, and then don't
-think about that material for two weeks, you'll probably have forgotten
-most of it. In fact, studies show we forget about 75% of material learned
-within a 48 hour period. This can seem pretty depressing when you need
-to learn a lot of information!
+Miyaning "ishlatmasang — unutiladi" tamoyili biz oʻrganayotgan har qanday
+bilimga taaluqli. Masalan, bir necha soat vaqt sarflab, ilmiy atamalarni
+yodlasangiz‑u, keyingi ikki hafta davomida ularni umuman eslamasangiz,
+katta qismi xotirangizdan koʻtariladi. Tadqiqotlar shuni koʻrsatadiki,
+inson oʻrgangan maʼlumotlarining qariyb 75 foizini dastlabki ikki sutkaning
+oʻzidayoq unutib yuborar ekan. Oʻzlashtirishi kerak boʻlgan maʼlumoti
+koʻp boʻlgan odam uchun bu ancha gʻashni keltiradi.
 
-However, the solution is simple: _review_. By reviewing newly-learned
-information, we can greatly reduce forgetting.
+Ammo yechim oddiy: _takrorlash_. Yangi oʻrganilgan maʼlumotlarni takrorlash
+orqali unutish jarayonini sezilarli darajada sekinlashtirish mumkin.
 
-The only problem is that traditionally, reviewing has not been very practical. If
-you are using paper flashcards, it's easy to flick through all of them
-if you only have 30 of them to review, but as the number grows to 300 or
-3000, it quickly becomes unmanageable.
+Yagona muammo shundaki, anʼanaviy usulda takrorlash unchalik ham qulay
+emas. Agar siz qogʻoz kartochkalardan foydalansangiz, ular 30 ta boʻlsa,
+koʻzdan kechirib chiqish oson. Ammo ularning soni 300 taga yoki 3000 taga
+yetganda boshqarish qiyinlashib ketadi.
 
-## Spaced Repetition
+## Oraliqli takrorlash
 
-The _spacing effect_ was reported in 1885 by a German psychologist called Hermann Ebbinghaus. He
-observed that we tend to remember things more effectively, if we spread
-reviews out over time, instead of studying multiple times in one
-session. Since the 1930s, there have been a number of proposals for
-utilizing the spacing effect to improve learning, in what has come to be
-called _spaced repetition_.
+"Oraliq effekti" (spacing effect) haqida ilk bor 1885‑yilda nemis psixologi
+German Ebbinghaus maʼlumot bergan. U bir oʻtirishda qayta‑qayta yodlashdan
+koʻra, takrorlashlar orasiga maʼlum vaqt qoʻyish (vaqtga yoyish) ancha
+samarali ekanini aniqlagan. 1930‑yillardan boshlab, ushbu hodisadan oʻqish
+jarayonini yaxshilashda foydalanish boʻyicha koʻplab takliflar chiqdi va
+bu usul keyinchalik "oraliqli takrorlash" deb nomlandi.
 
-One example was in 1972, when a German scientist called Sebastian Leitner
-popularized a method of spaced repetition with paper flashcards. By
-separating the paper cards into a series of boxes, and moving the
-cards to a different box on each successful or unsuccessful review, it
-was possible to see at a glance a rough estimate of how well a card was
-known and when it should be reviewed again. This was a great improvement
-over a single box of cards, and it has been widely adopted by
-computerized flashcard software. It is a rather rough approach however,
-as it cannot give you an exact date on which you should review something
-again, and it does not work very well with material of varying
-difficulty.
+Bunga misol tariqasida 1972‑yilda nemis olimi Sebastyan Laytner ommalashtirgan
+usulni keltirish mumkin. U qogʻoz kartochkalarni bir nechta qutilarga
+ajratib, har bir muvaffaqiyatli yoki muvaffaqiyatsiz takrorlashdan soʻng
+kartochkani boshqa qutiga koʻchirib turishni taklif qilgan. Shu yoʻl bilan
+qaysi kartochkani qanchalik yaxshi bilishingiz va uni qachon qaytadan koʻrib
+chiqish kerakligini bir qarashdayoq taxmin qilish mumkin edi. Bu usul bitta
+qutidan foydalanishga qaraganda ancha katta qulaylik yaratdi va keyinchalik
+kompyuter dasturlariga ham koʻchdi. Biroq, bu usulning ham oʻziga yarasha
+kamchiliklari bor: u maʼlumotni aynan qaysi kuni takrorlash kerakligini
+aniq belgilab bera olmaydi, qolaversa, turli qiyinchilikdagi mavzular bilan
+ishlashda ham oʻzini unchalik oqlamaydi.
 
-The biggest developments in the last 30 years have come from the authors
-of SuperMemo, a commercial flashcard program that implements spaced
-repetition. SuperMemo pioneered the concept of a system that keeps track
-of the ideal time to review material and optimizes itself based on the
-performance of the user.
+Soʻnggi 30 yildagi eng katta yangiliklar SuperMemo — oraliqli
+takrorlash usulini qoʻllaydigan tijoriy dastur mualliflari tomonidan amalga
+oshirildi. SuperMemo maʼlumotni takrorlash uchun eng qulay vaqtni hisoblab
+boradigan va foydalanuvchining natijalariga qarab oʻzini moslashtiradigan
+tizimga asos soldi.
 
-In SuperMemo's spaced repetition system, every time you answer a
-question, you tell the program how well you were able to remember it —
-whether you forgot completely, made a small mistake, remembered with
-trouble, remembered easily, etc. The program uses this feedback to
-decide the optimal time to show you the question again. Because a memory
-gets stronger each time you successfully recall it, the time between
-reviews gets longer and longer — so you may see a question for the first
-time today, then 3 days later, 15 days later, 45 days later, and so on.
+SuperMemo tizimida har safar savolga javob berganingizda, uni qanchalik yaxshi
+eslaganingizni dasturga bildirasiz: butkul unutdingizmi, kichik xatoga yoʻl
+qoʻydingizmi, qiynalib esladingizmi yoki juda osonmi va hokazo. Dastur
+esa ushbu javobingizga tayanib, oʻsha savolni sizga qayta koʻrsatish
+uchun eng maqbul vaqtni belgilaydi. Har gal muvaffaqiyatli eslaganingizda
+xotira mustahkamlanib boradi, shu sababli takrorlashlar orasidagi vaqt ham
+uzayaveradi. Masalan, biror savolga bugun duch kelsangiz, uni keyingi safar
+3 kundan keyin, soʻng 15 kunda va borib‑borib 45 kundan keyin takrorlaysiz.
 
-This was a revolution in learning, as it meant material could be learned
-and retained with the absolute minimum amount of effort necessary.
-SuperMemo's slogan sums it up: with spaced repetition, you can: "forget
-about forgetting".
+Bu bilim olishda tub burilish yasadi, chunki endi ortiqcha kuch sarflamasdan
+maʼlumotlarni yodda saqlash imkoniyati paydo boʻldi. SuperMemo shiori buni
+qisqacha tushuntiradi: oraliqli takrorlash yordamida "unutishni unuting".
 
-## Why Anki?
+## Nega aynan Anki?
 
-While there is no denying the huge impact SuperMemo has had on the
-field, it is not without its problems. The program is often criticized
-for being buggy and difficult to navigate. It only runs on Windows
-computers. It is proprietary software, meaning that end-users cannot extend it
-or access the raw data. And while very old versions have been made available
-for free, they are quite limited for modern use.
+SuperMemo dasturining ushbu sohaga qoʻshgan hissasi beqiyos boʻlsa‑da,
+uning ham oʻziga yarasha kamchiliklari bor. Dastur tez‑tez texnik
+nosozliklarga (baglar) uchrashi va undan foydalanish ancha murakkabligi uchun
+koʻp tanqid qilinadi. Bundan tashqari, u faqat Windows operatsion tizimida
+ishlaydi. SuperMemo yopiq dastur hisoblanadi, yaʼni foydalanuvchilar uni
+oʻz ehtiyojlariga koʻra oʻzgartira olmaydilar yoki maʼlumotlar bazasiga
+toʻgʻridan‑toʻgʻri kira olmaydilar. Dasturning juda eski versiyalari
+tekinga tarqatilgan boʻlsa‑da, ular zamonaviy talablar darajasida emas.
 
-Anki addresses these issues. There are free clients for Anki available
-on many platforms, so struggling students and teachers with budgetary
-constraints are not left out. Anki is open source, with an already
-flourishing library of add-ons contributed by end-users. It is
-multi-platform, running on Windows, macOS, Linux/FreeBSD, and some
-mobile devices. And it is considerably easier to use than SuperMemo.
+Anki mana shu muammolarga yechim sifatida yaratilgan. Ankiʼning koʻplab
+platformalar uchun moʻljallangan bepul versiyalari mavjud, shuning uchun
+mablagʻi cheklangan talaba va oʻqituvchilar ham undan bemalol foydalanishlari
+mumkin. Anki ochiq kodli dastur boʻlib, hozirda foydalanuvchilar tomonidan
+yaratilgan foydali qoʻshimchalar (add-on) kutubxonasi nihoyatda boy. Dastur
+koʻp platformali boʻlib, Windows, macOS, Linux/FreeBSD va mobil qurilmalarda
+birdek ishlaydi. Eng muhimi, undan foydalanish SuperMemoʼga qaraganda
+ancha oson.
 
-Anki's spaced repetition system is based on an older version of the
-SuperMemo algorithm called [SM-2](https://faqs.ankiweb.net/what-spaced-repetition-algorithm). Recently, a new algorithm called [FSRS](https://docs.ankiweb.net/deck-options.html?highlight=FSRS#fsrs) has been integrated as an alternative to the legacy SM-2 algorithm.
+Ankiʼning oraliqli takrorlash tizimi SuperMemo algoritmining eskiroq
+[SM-2](https://faqs.ankiweb.net/what-spaced-repetition-algorithm)
+versiyasiga asoslangan. Yaqinda esa eski SM-2 oʻrniga muqobil ravishda
+[FSRS](https://docs.ankiweb.net/deck-options.html?highlight=FSRS#fsrs)
+deb nomlangan yangi va zamonaviy algoritm ham qoʻshildi.
